@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f520092c0c7faeb42ba4d09b2cf8ece7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - LivesText: {instanceID: 0}
+  - TileDisappearsText: {instanceID: 0}
+  - LevelPrefab: {instanceID: 0}
+  - PlayerPrefab: {instanceID: 0}
+  - FloorTilePrefab: {instanceID: 0}
+  - GameOverHUD: {instanceID: 0}
+  - YouWinHUD: {instanceID: 0}
+  - RequestUp: {fileID: 8300000, guid: fd1a34f135e8e6e47a3dda76636a2868, type: 3}
+  - RequestDown: {fileID: 8300000, guid: 793bfbf7a0117d547b7be3efcddb1773, type: 3}
+  - RequestLeft: {fileID: 8300000, guid: db43d2afee18da9469528e50b594a890, type: 3}
+  - RequestRight: {fileID: 8300000, guid: 5a649fa00bad8d948a3bb68456f20e52, type: 3}
+  - CollectiblePrefab: {fileID: 150888, guid: 3409e4e3009e4094cbf6730456803ab9, type: 2}
+  - GoalPrefab: {instanceID: 0}
+  - AdvisePositive: {fileID: 8300000, guid: 52c65717768d5cf4e8bb6c02c6881921, type: 3}
+  - AdviseNegative: {fileID: 8300000, guid: 9dfff42054eafbb4ebbc6a09b8ef99dc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
